@@ -46,6 +46,13 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=LLVM&logoColor=white" style="border-radius:5px"/>
 
+### Security
+
+<p>
+<img src="https://img.shields.io/badge/cryptography-000000?style=for-the-badge&logoColor=white" style="border-radius:5px"/>  
+<img src="https://img.shields.io/badge/system feature-0091BD?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
+</p>
+
 ### Development Environment
 
 <p>
