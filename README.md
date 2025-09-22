@@ -72,6 +72,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius:5px"/>
 </p>
 
+### Other Topics
+
+<p>
+<img src="https://img.shields.io/badge/Electronics and Circuits-03234B?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
+<img src="https://img.shields.io/badge/Signal Processing-03234B?style=for-the-badge&logoColor=white" style="border-radius:5px"/>    
+<img src="https://img.shields.io/badge/Operating System-03234B?style=for-the-badge&logoColor=white" style="border-radius:5px"/>  
+</p>
+
 ### Preparing Project & Ongoing Project 🤔 
-
-
