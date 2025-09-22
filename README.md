@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/STM32F429ZI-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/ARMv7m-0091BD?style=for-the-badge&logo=arm&logoColor=white" style="border-radius:5px"/>
+<img src="https://img.shields.io/badge/Vim3-49B48A?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
 </p>
 
 ### Compiler Technology
