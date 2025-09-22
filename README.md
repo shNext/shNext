@@ -71,3 +71,7 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius:5px"/>
 </p>
+
+### Preparing Project & Ongoing Project 🤔 
+
+
