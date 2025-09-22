@@ -1,7 +1,7 @@
 ### About Me 😄
 
 <p>
-<img src="https://img.shields.io/badge/modesty-000000?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
+<img src="https://img.shields.io/badge/honest-000000?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/hope-03234B?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/courage-C6002B?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
 </p>
