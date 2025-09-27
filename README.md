@@ -54,18 +54,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/system feature-0091BD?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
 </p>
 
-### Development Environment
-
-<p>
-<img src="https://img.shields.io/badge/Windows-03234B?style=for-the-badge&logoColor=white" style="border-radius:5px"/>  
-<img src="https://img.shields.io/badge/STM32Cube-03234B?style=for-the-badge&logoColor=white" style="border-radius:5px"/>  
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/VirtualBox-262D3A?style=for-the-badge&logoColor=white" style="border-radius:5px"/>  
-<img src="https://img.shields.io/badge/Ubuntu22.04LTS-262D3A?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
-</p>
-
 ### Management
 
 <p>
@@ -80,4 +68,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Operating System-03234B?style=for-the-badge&logoColor=white" style="border-radius:5px"/>  
 </p>
 
-### Preparing Project & Ongoing Project 🤔 
+### Preparing & Ongoing Project for Job 🤔
+
+<p>
+To apply to the company as Embedded/System SW Engineer, I will take a below experience. <br/>
+The purpose is getting in-depth knowledge from bottom-up/scratch or customizing them/their features by doing so eventually to prepare the position.
+</p>
+
+### Schedule
+Working Day : From Monday to Friday or Saturday. <br/>
+I need refresh time. 😄
