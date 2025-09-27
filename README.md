@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <p>
 To apply to the company as Embedded/System SW Engineer, I will take a below experience. <br/>
-The purpose is getting in-depth knowledge from bottom-up/scratch or customizing them/their features by doing so eventually to prepare the position.
+The purpose is getting in-depth knowledge from bottom-up/scratch or customizing them/utilizing their features by doing so eventually to prepare the position.
 </p>
 
 ### Schedule
