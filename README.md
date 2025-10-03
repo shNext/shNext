@@ -75,6 +75,12 @@ To apply to the company as Embedded/System SW Engineer, I will take a below expe
 The purpose is getting in-depth knowledge from bottom-up/scratch or customizing them/utilizing their features by doing so eventually to prepare the position.
 </p>
 
+---
+
+cryptographic algorithms development then fundamental thinking about the integration of cryptography with ai and its utilization in embedded systems. <br/>
+
+---
+
 ### Schedule
 Working Day : From Monday to Friday or Saturday. <br/>
 I need refresh time. 😄
