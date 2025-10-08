@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Operating System-03234B?style=for-the-badge&logoColor=white" style="border-radius:5px"/>  
 </p>
 
-### Preparing & Ongoing Project for Job 🤔 (I have to choose one more)
+### Preparing & Ongoing Project for Job
 
 <p>
 To apply to the company as Embedded/System SW Engineer, I will take a below experience. <br/>
@@ -79,6 +79,7 @@ The purpose is getting in-depth knowledge from bottom-up/scratch or customizing 
 
 cryptographic algorithms development then fundamental thinking about the integration of cryptography with ai and its utilization in embedded systems. <br/>
 with the compiler, focusing on the environment using multiple processors, its own domain. <br/>
+seems to be there nothing, but look at, the operating system. <br/>
 
 ---
 
