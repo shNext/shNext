@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Operating System-03234B?style=for-the-badge&logoColor=white" style="border-radius:5px"/>  
 </p>
 
-### Preparing & Ongoing Project for Job 🤔
+### Preparing & Ongoing Project for Job 🤔 (I have to choose one more)
 
 <p>
 To apply to the company as Embedded/System SW Engineer, I will take a below experience. <br/>
