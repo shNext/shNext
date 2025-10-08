@@ -78,6 +78,7 @@ The purpose is getting in-depth knowledge from bottom-up/scratch or customizing 
 ---
 
 cryptographic algorithms development then fundamental thinking about the integration of cryptography with ai and its utilization in embedded systems. <br/>
+with the compiler, focusing on the environment using multiple processors, its own domain. <br/>
 
 ---
 
