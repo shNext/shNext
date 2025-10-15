@@ -77,8 +77,8 @@ The purpose is getting in-depth knowledge from bottom-up/scratch or customizing 
 
 ---
 
-cryptographic algorithms development then fundamental thinking about the integration of cryptography with ai and its utilization in embedded systems. <br/>
-with the compiler, focusing on the environment using multiple processors, its own domain. <br/>
+cryptographic algorithms development then fundamental thinking about the integration of cryptography with ai and its utilization in embedded systems., alone, for 5 months. <br/>
+with the compiler, focusing on the environment using multiple processors, its own domain., alone, for 8 months. <br/>
 seems to be there nothing, but look at, the operating system. <br/>
 
 ---
